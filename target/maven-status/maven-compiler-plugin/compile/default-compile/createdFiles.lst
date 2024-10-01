@@ -1,1 +1,2 @@
-com\menesestech\sistemainventario\SistemaInventario.class
+com\menesestech\sistemainventario\models\Main.class
+com\menesestech\sistemainventario\models\ConnectionMySQL.class
